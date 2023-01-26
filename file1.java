@@ -10,3 +10,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
                     how are you
+
+		    rectified the problem by issue1 branch devloper
